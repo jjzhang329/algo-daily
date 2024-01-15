@@ -14,3 +14,9 @@
     - [x] [链表：203.移除链表元素](./problems/203.%20Remove%20Linked%20List%20Elements.md)
     - [x] [链表：707.设计链表](./problems/707.Design%20LInked%20List.md)
     - [x] [链表：206.反转链表](./problems/206.Reverse%20Linked%20List.md)
+
+4. Day 4
+    - [x] [链表：24.两两交换链表中的节点](./problems/24.%20Swap%20Nodes%20in%20Pairs.md)
+    - [] [链表：19.删除链表的倒数第N个节点]()
+    - [] [链表：面试题02.07.链表相交]()
+    - [] [链表：142.环形链表II]()
