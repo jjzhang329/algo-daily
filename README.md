@@ -18,5 +18,5 @@
 4. Day 4
     - [x] [链表：24.两两交换链表中的节点](./problems/24.%20Swap%20Nodes%20in%20Pairs.md)
     - [x] [链表：19.删除链表的倒数第N个节点](./problems/19.Remove%20Nth%20Node%20from%20end.md)
-    - [] [链表：面试题02.07.链表相交]()
+    - [x] [链表：面试题02.07.链表相交](./problems/160.Intersection%20of%20Two%20Linked%20Lists.md)
     - [x] [链表：142.环形链表II](./problems/142.Linked%20List%20CycleII.md)
