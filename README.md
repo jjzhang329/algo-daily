@@ -34,9 +34,9 @@
     - [x] [哈希表：18. 四数之和 ](./problems/Hash/18.%204Sum.md)
 
 8. Day 8
-    - [] [字符串：344.反转字符串](./problems/Hash/344.%20Reverse%20String.md)
-    - [] [字符串：541. 反转字符串II]()
-    - [] [字符串：54.替换数字]()
-    - [] [字符串：151.翻转字符串里的单词]()
-    - [] [字符串：55.右旋转字符串]()
+    - [x] [字符串：344.反转字符串](./problems/String/344.%20Reverse%20String.md)
+    - [x] [字符串：541. 反转字符串II](./problems/String/541.%20Reverse%20StringII.md)
+    - [] [卡码网：54.替换数字]()
+    - [x] [字符串：151.翻转字符串里的单词](./problems/String/151.%20Reverse%20Words%20in%20a%20String.md)
+    - [] [卡码网：55.右旋转字符串]()
 
