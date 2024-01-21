@@ -40,6 +40,10 @@
     - [x] [字符串：151.翻转字符串里的单词](./problems/String/151.%20Reverse%20Words%20in%20a%20String.md)
     - [] [卡码网：55.右旋转字符串]()
 
-9. Day 9
+9. Day 9 (KMP Learning)
     - [] [字符串：28. 实现 strStr()]()
     - [] [字符串：459.重复的子字符串]()
+
+10. Day 10
+    - [x] [栈与队列：232.用栈实现队列](./problems/Stack%20and%20Queue/232.%20Implement%20Queue%20using%20Stacks.md)
+    - [x] [栈与队列：225. 用队列实现栈](./problems/Stack%20and%20Queue/225.%20Implement%20Stack%20using%20Queues.md)
