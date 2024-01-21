@@ -47,3 +47,8 @@
 10. Day 10
     - [x] [栈与队列：232.用栈实现队列](./problems/Stack%20and%20Queue/232.%20Implement%20Queue%20using%20Stacks.md)
     - [x] [栈与队列：225. 用队列实现栈](./problems/Stack%20and%20Queue/225.%20Implement%20Stack%20using%20Queues.md)
+
+11. Day 11
+    - [x] [栈与队列：20. 有效的括号](./problems/Stack%20and%20Queue/20.%20Valid%20Parentheses.md)
+    - [x] [栈与队列：1047. 删除字符串中的所有相邻重复项](./problems/Stack%20and%20Queue/1047.%20Remove%20All%20Adjacent%20Duplicates.md)
+    - [x] [栈与队列：150. 逆波兰表达式求值](./problems/Stack%20and%20Queue/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
