@@ -21,6 +21,8 @@
     - [x] [链表：面试题02.07.链表相交](./problems/LinkedList/160.Intersection%20of%20Two%20Linked%20Lists.md)
     - [x] [链表：142.环形链表II](./problems/LinkedList/142.Linked%20List%20CycleII.md)
 
+5. Day 5 - Rest
+
 6. Day 6
     - [x] [哈希表：242.有效的字母异位词](./problems/Hash/242.%20Valid%20Anagram.md)
     - [x] [哈希表：349. 两个数组的交集 ](./problems/Hash/349.%20Intersection%20of%20Two%20Arrays.md)
@@ -52,3 +54,9 @@
     - [x] [栈与队列：20. 有效的括号](./problems/Stack%20and%20Queue/20.%20Valid%20Parentheses.md)
     - [x] [栈与队列：1047. 删除字符串中的所有相邻重复项](./problems/Stack%20and%20Queue/1047.%20Remove%20All%20Adjacent%20Duplicates.md)
     - [x] [栈与队列：150. 逆波兰表达式求值](./problems/Stack%20and%20Queue/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
+
+12. Day 12 - Rest
+
+13. Day 13
+    - [x] [栈与队列：239. 滑动窗口最大值](./problems/Stack%20and%20Queue/239.%20Sliding%20Window%20Maximum.md)
+    - [] [栈与队列：347.前 K 个高频元素]()
