@@ -69,3 +69,8 @@
     - [x] [二叉树：226.翻转二叉树](./problems/Binary%20Tree/226.%20Invert%20Binary%20Tree.md)
     - [x] [二叉树：101.对称二叉树](./problems/Binary%20Tree/101.%20Symmetric%20Tree.md)
     - [x] [二叉树：102.二叉树的层序遍历](./problems/Binary%20Tree/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+
+16. Day 16
+    - [x] [二叉树：104.二叉树的最大深度](./problems/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+    - [x] [二叉树：111.二叉树的最小深度](./problems/Binary%20Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+    - [x] [二叉树：222.完全二叉树的节点个数](./problems/Binary%20Tree/222.%20Count%20Complete%20Tree%20Nodes.md)
