@@ -88,7 +88,7 @@
 19. Day 19 - Rest
 
 20. Day 20
-    - [] [二叉树：654.最大二叉树]()
-    - [] [二叉树：617.合并二叉树 ]()
-    - [] [二叉树：700.二叉搜索树中的搜索]()
-    - [] [二叉树：98.验证二叉搜索树]()
+    - [x] [二叉树：654.最大二叉树](./problems/Binary%20Tree/654.%20Maximum%20Binary%20Tree.md)
+    - [x] [二叉树：617.合并二叉树 ](./problems/Binary%20Tree/617.%20Merge%20Two%20Binary%20Trees.md)
+    - [x] [二叉树：700.二叉搜索树中的搜索](./problems/Binary%20Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
+    - [x] [二叉树：98.验证二叉搜索树](./problems/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
