@@ -92,3 +92,8 @@
     - [x] [二叉树：617.合并二叉树 ](./problems/Binary%20Tree/617.%20Merge%20Two%20Binary%20Trees.md)
     - [x] [二叉树：700.二叉搜索树中的搜索](./problems/Binary%20Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
     - [x] [二叉树：98.验证二叉搜索树](./problems/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
+
+21. Day 21
+    - [x] [二叉树：530.二叉搜索树的最小绝对差](./problems/Binary%20Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)
+    - [x] [二叉树：501.二叉搜索树中的众数](./problems/Binary%20Tree/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md)
+    - [x] [二叉树：236. 二叉树的最近公共祖先](./problems/Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
