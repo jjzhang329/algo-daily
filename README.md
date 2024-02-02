@@ -104,6 +104,6 @@
     - [x] [二叉树：450.删除二叉搜索树中的节点](./problems/Binary%20Tree/450.%20Delete%20Node%20in%20a%20BST.md)
 
 23. Day 23
-    - [] [二叉树：669. 修剪二叉搜索树]()
-    - [] [二叉树：108.将有序数组转换为二叉搜索树]()
-    - [] [二叉树：538.把二叉搜索树转换为累加树]()
+    - [x] [二叉树：669. 修剪二叉搜索树](./problems/Binary%20Tree/669.%20Trim%20a%20Binary%20Search%20Tree.md)
+    - [x] [二叉树：108.将有序数组转换为二叉搜索树](./problems/Binary%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+    - [x] [二叉树：538.把二叉搜索树转换为累加树](./problems/Binary%20Tree/538.%20Convert%20BST%20to%20Greater%20Tree.md)
