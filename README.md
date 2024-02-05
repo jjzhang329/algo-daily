@@ -116,3 +116,8 @@
     - [x] [回溯算法：17.电话号码的字母组合](./problems/backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 
 26. Day 26 - Rest
+
+27. Day 27
+    - [x] [回溯算法：39. 组合总和](./problems/backtracking/39.%20Combination%20Sum.md)
+    - [x] [回溯算法：40.组合总和II](./problems/backtracking/40.%20Combination%20Sum%20II.md)
+    - [x] [回溯算法：131.分割回文串](./problems/backtracking/131.%20Palindrome%20Partitioning.md)
