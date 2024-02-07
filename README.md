@@ -126,3 +126,8 @@
     - [x] [回溯算法：93.复原IP地址](./problems/backtracking/93.%20Restore%20IP%20Addresses.md)
     - [x] [回溯算法：78.子集](./problems/backtracking/78.%20Subsets.md)
     - [x] [回溯算法：90.子集II](./problems/backtracking/90.%20Subsets%20II.md)
+
+29. Day 29
+    - [x] [回溯算法：491.递增子序列](./problems/backtracking/491.%20Non-decreasing%20Subsequences.md)
+    - [x] [回溯算法：46.全排列](./problems/backtracking/46.%20Permutations.md)
+    - [x] [回溯算法：47.全排列 II](./problems/backtracking/47.%20Permutations%20II.md)
