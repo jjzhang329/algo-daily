@@ -131,3 +131,8 @@
     - [x] [回溯算法：491.递增子序列](./problems/backtracking/491.%20Non-decreasing%20Subsequences.md)
     - [x] [回溯算法：46.全排列](./problems/backtracking/46.%20Permutations.md)
     - [x] [回溯算法：47.全排列 II](./problems/backtracking/47.%20Permutations%20II.md)
+
+30. Day 30
+    - [] [回溯算法：332.重新安排行程]()
+    - [] [回溯算法：51. N皇后]()
+    - [] [回溯算法：37. 解数独]()
