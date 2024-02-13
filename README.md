@@ -136,3 +136,6 @@
     - [x] [回溯算法：332.重新安排行程](./problems/backtracking/332.%20Reconstruct%20Itinerary.md)
     - [x] [回溯算法：51. N皇后](./problems/backtracking/51.%20N-Queens.md)
     - [z] [回溯算法：37. 解数独](./problems/backtracking/37.%20Sudoku%20Solver.md)
+
+31. Day 31 - Rest
+32. Day 32 - Rest
