@@ -137,5 +137,7 @@
     - [x] [回溯算法：51. N皇后](./problems/backtracking/51.%20N-Queens.md)
     - [z] [回溯算法：37. 解数独](./problems/backtracking/37.%20Sudoku%20Solver.md)
 
-31. Day 31 - Rest
-32. Day 32 - Rest
+31. Day 31 
+    - [] [贪心算法：455.分发饼干]()
+    - [] [贪心算法：376. 摆动序列]()
+    - [] [贪心算法：53. 最大子序和]()
