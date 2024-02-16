@@ -141,3 +141,8 @@
     - [x] [贪心算法：455.分发饼干](./problems/greedy/455.%20Assign%20Cookies.md)
     - [x] [贪心算法：376. 摆动序列](./problems/greedy/376.%20Wiggle%20Subsequence.md)
     - [x] [贪心算法：53. 最大子序和](./problems/greedy/53.%20Maximum%20Subarray.md)
+
+32. Day 32
+    - [x] [贪心算法：122.买卖股票的最佳时机II](./problems/greedy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+    - [x] [贪心算法：55. 跳跃游戏](./problems/greedy/55.%20Jump%20Game.md)
+    - [x] [贪心算法：45.跳跃游戏II](./problems/greedy/45.%20Jump%20Game%20II.md)
