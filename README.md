@@ -138,6 +138,6 @@
     - [z] [回溯算法：37. 解数独](./problems/backtracking/37.%20Sudoku%20Solver.md)
 
 31. Day 31 
-    - [] [贪心算法：455.分发饼干]()
-    - [] [贪心算法：376. 摆动序列]()
-    - [] [贪心算法：53. 最大子序和]()
+    - [x] [贪心算法：455.分发饼干](./problems/greedy/455.%20Assign%20Cookies.md)
+    - [x] [贪心算法：376. 摆动序列](./problems/greedy/376.%20Wiggle%20Subsequence.md)
+    - [x] [贪心算法：53. 最大子序和](./problems/greedy/53.%20Maximum%20Subarray.md)
