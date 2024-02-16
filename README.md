@@ -148,6 +148,6 @@
     - [x] [贪心算法：45.跳跃游戏II](./problems/greedy/45.%20Jump%20Game%20II.md)
 
 33. Day 33
-    - [] [贪心算法：1005.K次取反后最大化的数组和]()
-    - [] [贪心算法：134. 加油站]()
-    - [] [贪心算法：135. 分发糖果]()
+    - [x] [贪心算法：1005.K次取反后最大化的数组和](./problems/greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)
+    - [x] [贪心算法：134. 加油站](./problems/greedy/134.%20Gas%20Station.md)
+    - [x] [贪心算法：135. 分发糖果](./problems/greedy/135.%20Candy.md)
