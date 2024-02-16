@@ -146,3 +146,8 @@
     - [x] [贪心算法：122.买卖股票的最佳时机II](./problems/greedy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
     - [x] [贪心算法：55. 跳跃游戏](./problems/greedy/55.%20Jump%20Game.md)
     - [x] [贪心算法：45.跳跃游戏II](./problems/greedy/45.%20Jump%20Game%20II.md)
+
+33. Day 33
+    - [] [贪心算法：1005.K次取反后最大化的数组和]()
+    - [] [贪心算法：134. 加油站]()
+    - [] [贪心算法：135. 分发糖果]()
