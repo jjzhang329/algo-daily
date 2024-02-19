@@ -151,3 +151,8 @@
     - [x] [贪心算法：1005.K次取反后最大化的数组和](./problems/greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)
     - [x] [贪心算法：134. 加油站](./problems/greedy/134.%20Gas%20Station.md)
     - [x] [贪心算法：135. 分发糖果](./problems/greedy/135.%20Candy.md)
+
+34. Day 34
+    - [] [贪心算法：860.柠檬水找零]()
+    - [] [贪心算法：406.根据身高重建队列]()
+    - [] [贪心算法：452. 用最少数量的箭引爆气球]()
