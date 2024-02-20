@@ -154,5 +154,5 @@
 
 34. Day 34
     - [x] [贪心算法：860.柠檬水找零](./problems/greedy/860.%20Lemonade%20Change.md)
-    - [] [贪心算法：406.根据身高重建队列]()
-    - [] [贪心算法：452. 用最少数量的箭引爆气球]()
+    - [x] [贪心算法：406.根据身高重建队列](./problems/greedy/406.%20Queue%20Reconstruction%20by%20Height.md)
+    - [x] [贪心算法：452. 用最少数量的箭引爆气球](./problems/greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
