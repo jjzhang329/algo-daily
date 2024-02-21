@@ -167,3 +167,8 @@
 37. Day 37
     - [x] [贪心算法：738.单调递增的数字](./problems/greedy/738.%20Monotone%20Increasing%20Digits.md)
     - [x] [贪心算法：968.监控二叉树](./problems/greedy/968.%20Binary%20Tree%20Cameras.md)
+
+38. Day 38 
+    - [x] [动态规划：509. 斐波那契数](./problems/dynamic%20programming/509.%20Fibonacci%20Number.md)
+    - [x] [动态规划：70. 爬楼梯](./problems/dynamic%20programming/70.%20Climbing%20Stairs.md)
+    - [x] [动态规划：746. 使用最小花费爬楼梯](./problems/dynamic%20programming/746.%20Min%20Cost%20Climbing%20Stairs.md)
