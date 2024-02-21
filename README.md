@@ -163,3 +163,7 @@
     - [x] [贪心算法: 435. 无重叠区间](./problems/greedy/435.%20Non-overlapping%20Intervals.md)
     - [x] [贪心算法: 763.划分字母区间](./problems/greedy/763.%20Partition%20Labels.md)
     - [x] [贪心算法: 56. 合并区间](./problems/greedy/56.%20Merge%20Intervals.md)
+
+37. Day 37
+    - [x] [贪心算法：738.单调递增的数字](./problems/greedy/738.%20Monotone%20Increasing%20Digits.md)
+    - [x] [贪心算法：968.监控二叉树](./problems/greedy/968.%20Binary%20Tree%20Cameras.md)
