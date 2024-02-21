@@ -156,3 +156,10 @@
     - [x] [贪心算法：860.柠檬水找零](./problems/greedy/860.%20Lemonade%20Change.md)
     - [x] [贪心算法：406.根据身高重建队列](./problems/greedy/406.%20Queue%20Reconstruction%20by%20Height.md)
     - [x] [贪心算法：452. 用最少数量的箭引爆气球](./problems/greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
+
+35. Day 35 - Rest
+
+36. Day 36
+    - [x] [贪心算法: 435. 无重叠区间](./problems/greedy/435.%20Non-overlapping%20Intervals.md)
+    - [x] [贪心算法: 763.划分字母区间](./problems/greedy/763.%20Partition%20Labels.md)
+    - [x] [贪心算法: 56. 合并区间](./problems/greedy/56.%20Merge%20Intervals.md)
