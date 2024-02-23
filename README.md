@@ -172,3 +172,7 @@
     - [x] [动态规划：509. 斐波那契数](./problems/dynamic%20programming/509.%20Fibonacci%20Number.md)
     - [x] [动态规划：70. 爬楼梯](./problems/dynamic%20programming/70.%20Climbing%20Stairs.md)
     - [x] [动态规划：746. 使用最小花费爬楼梯](./problems/dynamic%20programming/746.%20Min%20Cost%20Climbing%20Stairs.md)
+
+39. Day 39
+    - [] [动态规划：62.不同路径]()
+    - [] [动态规划：63. 不同路径 II]()
