@@ -174,5 +174,5 @@
     - [x] [动态规划：746. 使用最小花费爬楼梯](./problems/dynamic%20programming/746.%20Min%20Cost%20Climbing%20Stairs.md)
 
 39. Day 39
-    - [] [动态规划：62.不同路径]()
-    - [] [动态规划：63. 不同路径 II]()
+    - [x] [动态规划：62.不同路径](./problems/dynamic%20programming/62.%20Unique%20Paths.md)
+    - [x] [动态规划：63. 不同路径 II](./problems/dynamic%20programming/63.%20Unique%20Paths%20II.md)
