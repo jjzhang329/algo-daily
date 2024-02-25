@@ -178,5 +178,5 @@
     - [x] [动态规划：63. 不同路径 II](./problems/dynamic%20programming/63.%20Unique%20Paths%20II.md)
 
 40. Day 40
-    - [] [动态规划：343. 整数拆分]()
-    - [] [动态规划：96.不同的二叉搜索树]()
+    - [x] [动态规划：343. 整数拆分](./problems/dynamic%20programming/343.%20Integer%20Break.md)
+    - [x] [动态规划：96.不同的二叉搜索树](./problems/dynamic%20programming/96.%20Unique%20Binary%20Search%20Trees.md)
