@@ -176,3 +176,7 @@
 39. Day 39
     - [x] [动态规划：62.不同路径](./problems/dynamic%20programming/62.%20Unique%20Paths.md)
     - [x] [动态规划：63. 不同路径 II](./problems/dynamic%20programming/63.%20Unique%20Paths%20II.md)
+
+40. Day 40
+    - [] [动态规划：343. 整数拆分]()
+    - [] [动态规划：96.不同的二叉搜索树]()
