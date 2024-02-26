@@ -180,3 +180,9 @@
 40. Day 40
     - [x] [动态规划：343. 整数拆分](./problems/dynamic%20programming/343.%20Integer%20Break.md)
     - [x] [动态规划：96.不同的二叉搜索树](./problems/dynamic%20programming/96.%20Unique%20Binary%20Search%20Trees.md)
+
+41. Day 41
+    - [x] [动态规划：01背包问题](./problems/dynamic%20programming/01.%20Backpack.md)
+    - [] [动态规划： 416. 分割等和子集]()
+
+42. Day 42 - Rest
