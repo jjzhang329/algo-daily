@@ -186,3 +186,8 @@
     - [x] [动态规划： 416. 分割等和子集](./problems/dynamic%20programming/416.%20Partition%20Equal%20Subset%20Sum.md)
 
 42. Day 42 - Rest
+
+43. Day 43
+    -[] [动态规划：1049. 最后一块石头的重量 II]()
+    -[] [动态规划：494. 目标和]()
+    -[] [动态规划：474.一和零]()
