@@ -183,6 +183,6 @@
 
 41. Day 41
     - [x] [动态规划：01背包问题](./problems/dynamic%20programming/01.%20Backpack.md)
-    - [] [动态规划： 416. 分割等和子集]()
+    - [x] [动态规划： 416. 分割等和子集](./problems/dynamic%20programming/416.%20Partition%20Equal%20Subset%20Sum.md)
 
 42. Day 42 - Rest
