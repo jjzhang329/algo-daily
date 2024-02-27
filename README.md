@@ -188,6 +188,11 @@
 42. Day 42 - Rest
 
 43. Day 43
-    -[x] [动态规划：1049. 最后一块石头的重量 II](./problems/dynamic%20programming/1049.%20Last%20Stone%20Weight%20II.md)
-    -[x] [动态规划：494. 目标和](./problems/dynamic%20programming/494.%20Target%20Sum.md)
-    -[x] [动态规划：474.一和零](./problems/dynamic%20programming/474.%20Ones%20and%20Zeroes.md)
+    - [x] [动态规划：1049. 最后一块石头的重量 II](./problems/dynamic%20programming/1049.%20Last%20Stone%20Weight%20II.md)
+    - [x] [动态规划：494. 目标和](./problems/dynamic%20programming/494.%20Target%20Sum.md)
+    - [x] [动态规划：474.一和零](./problems/dynamic%20programming/474.%20Ones%20and%20Zeroes.md)
+
+44. Day 44
+    - [x] [动态规划：完全背包](./problems/dynamic%20programming/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.md)
+    - [x] [动态规划：518. 零钱兑换 II ](./problems/dynamic%20programming/518.%20Coin%20Change%20II.md)
+    - [x] [动态规划：377. 组合总和 Ⅳ](./problems/dynamic%20programming/377.%20Combination%20Sum%20IV.md)
