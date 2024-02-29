@@ -196,3 +196,8 @@
     - [x] [动态规划：完全背包](./problems/dynamic%20programming/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.md)
     - [x] [动态规划：518. 零钱兑换 II ](./problems/dynamic%20programming/518.%20Coin%20Change%20II.md)
     - [x] [动态规划：377. 组合总和 Ⅳ](./problems/dynamic%20programming/377.%20Combination%20Sum%20IV.md)
+
+45. Day 45
+    - [] [动态规划：70. 爬楼梯 （进阶)]()
+    - [] [动态规划：322. 零钱兑换]()
+    - [] [动态规划：279.完全平方数]()
