@@ -198,9 +198,8 @@
     - [x] [动态规划：377. 组合总和 Ⅳ](./problems/dynamic%20programming/377.%20Combination%20Sum%20IV.md)
 
 45. Day 45
-    - [] [动态规划：70. 爬楼梯 （进阶)]()
-    - [] [动态规划：322. 零钱兑换]()
-    - [] [动态规划：279.完全平方数]()
+    - [x] [动态规划：322. 零钱兑换](./problems/dynamic%20programming/322.%20Coin%20Change.md)
+    - [x] [动态规划：279.完全平方数](./problems/dynamic%20programming/279.%20Perfect%20Squares.md)
 
 46. Day 46
     - [] [动态规划：139.单词拆分]()
