@@ -202,7 +202,7 @@
     - [x] [动态规划：279.完全平方数](./problems/dynamic%20programming/279.%20Perfect%20Squares.md)
 
 46. Day 46
-    - [] [动态规划：139.单词拆分]()
+    - [x] [动态规划：139.单词拆分](./problems/dynamic%20programming/139.%20Word%20Break.md)
 
 47. Day 47 
     - [] [动态规划：198.打家劫舍]()
