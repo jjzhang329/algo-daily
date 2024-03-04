@@ -210,7 +210,7 @@
     - [] [动态规划：337.打家劫舍III]()
 
 48. Day 48
-    - [] [动态规划：121. 买卖股票的最佳时机]()
-    - [] [动态规划：122.买卖股票的最佳时机II]()
+    - [x] [动态规划：121. 买卖股票的最佳时机](./problems/dynamic%20programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+    - [x] [动态规划：122.买卖股票的最佳时机II](./problems/dynamic%20programming/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
 49. Day 49 - Rest
