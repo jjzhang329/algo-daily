@@ -205,9 +205,9 @@
     - [x] [动态规划：139.单词拆分](./problems/dynamic%20programming/139.%20Word%20Break.md)
 
 47. Day 47 
-    - [] [动态规划：198.打家劫舍]()
-    - [] [动态规划：213.打家劫舍II]()
-    - [] [动态规划：337.打家劫舍III]()
+    - [x] [动态规划：198.打家劫舍](./problems/dynamic%20programming/198.%20House%20Robber.md)
+    - [x] [动态规划：213.打家劫舍II](./problems/dynamic%20programming/213.%20House%20Robber%20II.md)
+    - [x] [动态规划：337.打家劫舍III](./problems/dynamic%20programming/337.%20House%20Robber%20III.md)
 
 48. Day 48
     - [x] [动态规划：121. 买卖股票的最佳时机](./problems/dynamic%20programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
