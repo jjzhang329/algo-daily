@@ -222,3 +222,8 @@
 51. Day 51
     - [x] [动态规划：309.最佳买卖股票时机含冷冻期](./problems/dynamic%20programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
     - [x] [动态规划：714.买卖股票的最佳时机含手续费](./problems/dynamic%20programming/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)
+
+52. Day 52
+    - [x] [动态规划：300.最长递增子序列](./problems/dynamic%20programming/300.%20Longest%20Increasing%20Subsequence.md)
+    - [x] [动态规划：674. 最长连续递增序列](./problems/dynamic%20programming/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
+    - [] [动态规划：718. 最长重复子数组]()
