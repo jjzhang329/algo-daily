@@ -226,4 +226,9 @@
 52. Day 52
     - [x] [动态规划：300.最长递增子序列](./problems/dynamic%20programming/300.%20Longest%20Increasing%20Subsequence.md)
     - [x] [动态规划：674. 最长连续递增序列](./problems/dynamic%20programming/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
-    - [] [动态规划：718. 最长重复子数组]()
+    - [x] [动态规划：718. 最长重复子数组](./problems/dynamic%20programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md)
+
+53. Day 53 
+    - [x] [动态规划：1143.最长公共子序列](./problems/dynamic%20programming/1143.%20Longest%20Common%20Subsequence.md)
+    - [x] [动态规划：1035.不相交的线](./problems/dynamic%20programming/1035.%20Uncrossed%20Lines.md)
+    - [x] [动态规划：53. 最大子序和  动态规划](./problems/dynamic%20programming/53.%20Maximum%20Subarray.md)
