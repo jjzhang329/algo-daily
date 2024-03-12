@@ -234,8 +234,8 @@
     - [x] [动态规划：53. 最大子序和  动态规划](./problems/dynamic%20programming/53.%20Maximum%20Subarray.md)
 
 54. Day 54
-    - [] [动态规划：392.判断子序列]()
-    - [] [动态规划：115.不同的子序列]()
+    - [x] [动态规划：392.判断子序列](./problems/dynamic%20programming/392.%20Is%20Subsequence.md)
+    - [x] [动态规划：115.不同的子序列](./problems/dynamic%20programming/115.%20Distinct%20Subsequences.md)
 
 55. Day 55
     - [] [动态规划：583. 两个字符串的删除操作]()
