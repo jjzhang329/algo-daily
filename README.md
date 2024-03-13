@@ -238,5 +238,5 @@
     - [x] [动态规划：115.不同的子序列](./problems/dynamic%20programming/115.%20Distinct%20Subsequences.md)
 
 55. Day 55
-    - [] [动态规划：583. 两个字符串的删除操作]()
-    - [] [动态规划：583. 72. 编辑距离]()
+    - [x] [动态规划：583. 两个字符串的删除操作](./problems/dynamic%20programming/583.%20Delete%20Operation%20for%20Two%20Strings.md)
+    - [x] [动态规划：72. 编辑距离](./problems/dynamic%20programming/72.%20Edit%20Distance.md)
