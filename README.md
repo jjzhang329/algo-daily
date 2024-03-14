@@ -240,3 +240,9 @@
 55. Day 55
     - [x] [动态规划：583. 两个字符串的删除操作](./problems/dynamic%20programming/583.%20Delete%20Operation%20for%20Two%20Strings.md)
     - [x] [动态规划：72. 编辑距离](./problems/dynamic%20programming/72.%20Edit%20Distance.md)
+
+56. Day 56 Rest
+
+57. Day 57
+    - [x] [动态规划：647. 回文子串](./problems/dynamic%20programming/647.%20Palindromic%20Substrings.md)
+    - [x] [动态规划：516.最长回文子序列](./problems/dynamic%20programming/516.%20Longest%20Palindromic%20Subsequence.md)
