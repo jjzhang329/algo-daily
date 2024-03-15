@@ -253,7 +253,7 @@
 
 59. Day 59
     - [x] [单调栈：503.下一个更大元素II](./problems/Stack%20and%20Queue/monotonic%20stack/503.%20Next%20Greater%20Element%20II.md)
-    - [] [单调栈：42. 接雨水 ]()
+    - [x] [单调栈：42. 接雨水 ](./problems/Stack%20and%20Queue/monotonic%20stack/42.%20Trapping%20Rain%20Water.md)
 
 60. Day 60 - Last Day!!!
-    - [] [单调栈：84.柱状图中最大的矩形]()
+    - [x] [单调栈：84.柱状图中最大的矩形](./problems/Stack%20and%20Queue/monotonic%20stack/84.%20Largest%20Rectangle%20in%20Histogram.md)
