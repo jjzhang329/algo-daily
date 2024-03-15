@@ -248,11 +248,11 @@
     - [x] [动态规划：516.最长回文子序列](./problems/dynamic%20programming/516.%20Longest%20Palindromic%20Subsequence.md)
 
 58. Day 58
-    - [] [单调栈：739. 每日温度]()
-    - [] [单调栈：496.下一个更大元素 I]()
+    - [x] [单调栈：739. 每日温度](./problems/Stack%20and%20Queue/monotonic%20stack/739.%20Daily%20Temperatures.md)
+    - [x] [单调栈：496.下一个更大元素 I](./problems/Stack%20and%20Queue/monotonic%20stack/496.%20Next%20Greater%20Element%20I.md)
 
 59. Day 59
-    - [] [单调栈：503.下一个更大元素II]()
+    - [x] [单调栈：503.下一个更大元素II](./problems/Stack%20and%20Queue/monotonic%20stack/503.%20Next%20Greater%20Element%20II.md)
     - [] [单调栈：42. 接雨水 ]()
 
 60. Day 60 - Last Day!!!
