@@ -1,3 +1,6 @@
+# need to find min(left_max, right_max) - height[i]
+# always take the min of left and right, because it cant hold more water than min
+
 class Solution:
     def trap(self, height: List[int]) -> int:
         left, right = 0, len(height)-1
