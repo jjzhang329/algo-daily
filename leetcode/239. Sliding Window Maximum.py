@@ -1,5 +1,7 @@
 #using monotonic queue, dscending order
-#always keep the largest at left 
+#always keep the largest at left
+# checking the size if dq[0] == i -k, then need to popout left
+
 
 from collections import deque
 class Solution:
