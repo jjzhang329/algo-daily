@@ -14,7 +14,7 @@ def max_heapify(A,k):
 def left(k):
     return 2 * k + 1
 
-def right(i):
+def right(k):
     return 2 * k + 2
 
 def build_max_heap(A):
