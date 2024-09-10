@@ -1,5 +1,6 @@
-#backtracking
-#子集问题，画出树图的话，子集问题是收集每一个节点的结果
+# backtracking
+# 子集问题，画出树图的话，子集问题是收集每一个节点的结果
+# 所以在每一次recursion开始的时候就要记录结果
 
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
